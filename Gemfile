@@ -24,7 +24,7 @@ end
 
 # Use Uglifier as compressor for JavaScript assets
 # commented the following line 03/10/2016
-# gem 'uglifier', '>= 1.3.0'
+gem 'uglifier', '>= 1.3.0'
 
 # Use CoffeeScript for .coffee assets and views
 # commented the following file 03/10/2016
