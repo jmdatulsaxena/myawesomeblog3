@@ -20,7 +20,7 @@ end
 
 # Use SCSS for stylesheets
 # commented the following line 03/10/2016
-# gem 'sass-rails', '~> 5.0'
+gem 'sass-rails', '~> 5.0'
 
 # Use Uglifier as compressor for JavaScript assets
 # commented the following line 03/10/2016
